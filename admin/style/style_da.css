@@ -1,0 +1,27 @@
+* {
+  scrollbar-color: var(--cyan) transparent;
+  scrollbar-width: thin
+}
+
+body {
+  background-color: #ffffff;
+  background-image: radial-gradient(rgb(253, 251, 251), rgb(235, 237, 238));
+}
+
+footer {
+  text-align: center
+}
+
+header.da-header {
+  padding: 10px
+}
+
+div#step1, div#step2, div#step3, div#step4, div#opt1, div#opt2, div#opt3, div#opt4, div#opt5 {
+  display: none
+}
+
+/* Alert box */
+div#error {
+  margin: auto;
+  max-width: 1000px
+}
