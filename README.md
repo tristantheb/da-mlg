@@ -7,7 +7,7 @@ The site is only in French and is used internally by an association that helps y
 
 ## Mentions
 
-Style: Admin LTE 3
+Style: Admin LTE 3<br>
 Code : tristantheb Production
 
 ## General information
